@@ -1,5 +1,3 @@
-"""Download and load the WiDS Datathon 2020 tables."""
-
 from pathlib import Path
 import urllib.request
 

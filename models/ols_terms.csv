@@ -1,0 +1,180 @@
+feature,term,code
+age,Age,NCIT:C25150
+bmi,body mass index,CMO:0000105
+elective_surgery,admitted to hospital,GENEPIO:0002020
+ethnicity,ethnicity,MIXS:0000895
+gender,gender,SCHEMAORG_HTTP:gender
+height,height,AFO:result#AFR_0002692
+hospital_admit_source,location of,RO:0001015
+icu_admit_source,location of,RO:0001015
+icu_stay_type,,
+icu_type,capable of,METPO:2000103
+pre_icu_los_days,Length of Stay,mesh:D007902
+readmission_status,,
+weight,weight,EVORAO:weight
+albumin_apache,,
+apache_2_diagnosis,,
+apache_3j_diagnosis,,
+apache_post_operative,,
+arf_apache,Acute Renal Failure,NCIT:C26808
+bilirubin_apache,,
+bun_apache,Blood Urea Nitrogen,mesh:D001806
+creatinine_apache,,
+fio2_apache,Fraction of,SNOMED_115468007
+gcs_eyes_apache,Glasgow coma scale,SNOMED_386554004
+gcs_motor_apache,Glasgow coma scale,SNOMED_386554004
+gcs_unable_apache,Glasgow coma scale,SNOMED_386554004
+gcs_verbal_apache,Glasgow coma scale,SNOMED_386554004
+glucose_apache,,
+heart_rate_apache,Heart Rate,mesh:D006339
+hematocrit_apache,,
+intubated_apache,Arterial Blood,NCIT:C78729
+map_apache,Mean arterial pressure,SNOMED_1285244000
+paco2_apache,partial pressure,AFO:result#AFR_0002198
+paco2_for_ph_apache,partial pressure,AFO:result#AFR_0002198
+pao2_apache,partial pressure,AFO:result#AFR_0002198
+ph_apache,Arterial Blood,NCIT:C78729
+resprate_apache,Respiratory Rate,mesh:D056152
+sodium_apache,sodium concentration,TO:0000526
+temp_apache,,
+urineoutput_apache,urine output,VT:0003620
+ventilated_apache,Arterial Blood,NCIT:C78729
+wbc_apache,Blood Cell Count,mesh:D001772
+d1_diasbp_invasive_max,Diastolic Blood Pressure,NCIT:C25299
+d1_diasbp_invasive_min,Diastolic Blood Pressure,NCIT:C25299
+d1_diasbp_max,Diastolic Blood Pressure,NCIT:C25299
+d1_diasbp_min,Diastolic Blood Pressure,NCIT:C25299
+d1_diasbp_noninvasive_max,Diastolic Blood Pressure,NCIT:C25299
+d1_diasbp_noninvasive_min,Diastolic Blood Pressure,NCIT:C25299
+d1_heartrate_max,Heart Rate,mesh:D006339
+d1_heartrate_min,Heart Rate,mesh:D006339
+d1_mbp_invasive_max,Mean Blood Pressure,NCIT:C217189
+d1_mbp_invasive_min,Mean Blood Pressure,NCIT:C217189
+d1_mbp_max,Mean Blood Pressure,NCIT:C217189
+d1_mbp_min,Mean Blood Pressure,NCIT:C217189
+d1_mbp_noninvasive_max,Mean Blood Pressure,NCIT:C217189
+d1_mbp_noninvasive_min,Mean Blood Pressure,NCIT:C217189
+d1_resprate_max,Respiratory Rate,mesh:D056152
+d1_resprate_min,Respiratory Rate,mesh:D056152
+d1_spo2_max,Peripheral oxygen saturation,SNOMED_431314004
+d1_spo2_min,Peripheral oxygen saturation,SNOMED_431314004
+d1_sysbp_invasive_max,Systolic Blood Pressure,NCIT:C25298
+d1_sysbp_invasive_min,Systolic Blood Pressure,NCIT:C25298
+d1_sysbp_max,Systolic Blood Pressure,NCIT:C25298
+d1_sysbp_min,Systolic Blood Pressure,NCIT:C25298
+d1_sysbp_noninvasive_max,Systolic Blood Pressure,NCIT:C25298
+d1_sysbp_noninvasive_min,Systolic Blood Pressure,NCIT:C25298
+d1_temp_max,core temperature,c_qUHTeqTW
+d1_temp_min,core temperature,c_qUHTeqTW
+h1_diasbp_invasive_max,Diastolic Blood Pressure,NCIT:C25299
+h1_diasbp_invasive_min,Diastolic Blood Pressure,NCIT:C25299
+h1_diasbp_max,Diastolic Blood Pressure,NCIT:C25299
+h1_diasbp_min,Diastolic Blood Pressure,NCIT:C25299
+h1_diasbp_noninvasive_max,Diastolic Blood Pressure,NCIT:C25299
+h1_diasbp_noninvasive_min,Diastolic Blood Pressure,NCIT:C25299
+h1_heartrate_max,Heart Rate,mesh:D006339
+h1_heartrate_min,Heart Rate,mesh:D006339
+h1_mbp_invasive_max,Mean Blood Pressure,NCIT:C217189
+h1_mbp_invasive_min,Mean Blood Pressure,NCIT:C217189
+h1_mbp_max,Mean Blood Pressure,NCIT:C217189
+h1_mbp_min,Mean Blood Pressure,NCIT:C217189
+h1_mbp_noninvasive_max,Mean Blood Pressure,NCIT:C217189
+h1_mbp_noninvasive_min,Mean Blood Pressure,NCIT:C217189
+h1_resprate_max,Respiratory Rate,mesh:D056152
+h1_resprate_min,Respiratory Rate,mesh:D056152
+h1_spo2_max,Peripheral oxygen saturation,SNOMED_431314004
+h1_spo2_min,Peripheral oxygen saturation,SNOMED_431314004
+h1_sysbp_invasive_max,Systolic Blood Pressure,NCIT:C25298
+h1_sysbp_invasive_min,Systolic Blood Pressure,NCIT:C25298
+h1_sysbp_max,Systolic Blood Pressure,NCIT:C25298
+h1_sysbp_min,Systolic Blood Pressure,NCIT:C25298
+h1_sysbp_noninvasive_max,Systolic Blood Pressure,NCIT:C25298
+h1_sysbp_noninvasive_min,Systolic Blood Pressure,NCIT:C25298
+h1_temp_max,core temperature,c_qUHTeqTW
+h1_temp_min,core temperature,c_qUHTeqTW
+d1_albumin_max,concentration of,PATO:0000033
+d1_albumin_min,concentration of,PATO:0000033
+d1_bilirubin_max,concentration of,PATO:0000033
+d1_bilirubin_min,concentration of,PATO:0000033
+d1_bun_max,Blood Urea Nitrogen,mesh:D001806
+d1_bun_min,Blood Urea Nitrogen,mesh:D001806
+d1_calcium_max,concentration of,PATO:0000033
+d1_calcium_min,concentration of,PATO:0000033
+d1_creatinine_max,concentration of,PATO:0000033
+d1_creatinine_min,concentration of,PATO:0000033
+d1_glucose_max,concentration of,PATO:0000033
+d1_glucose_min,concentration of,PATO:0000033
+d1_hco3_max,,
+d1_hco3_min,,
+d1_hemaglobin_max,Hemoglobin Concentration,CMO:0000506
+d1_hemaglobin_min,Hemoglobin Concentration,CMO:0000506
+d1_hematocrit_max,Blood Cells,mesh:D001773
+d1_hematocrit_min,Blood Cells,mesh:D001773
+d1_inr_max,International Normalized Ratio,mesh:D019934
+d1_inr_min,International Normalized Ratio,mesh:D019934
+d1_lactate_max,,
+d1_lactate_min,,
+d1_platelets_max,Platelet Count,mesh:D010976
+d1_platelets_min,Platelet Count,mesh:D010976
+d1_potassium_max,potassium concentration,TO:0000513
+d1_potassium_min,potassium concentration,TO:0000513
+d1_sodium_max,sodium concentration,TO:0000526
+d1_sodium_min,sodium concentration,TO:0000526
+d1_wbc_max,Blood Cell Count,mesh:D001772
+d1_wbc_min,Blood Cell Count,mesh:D001772
+h1_albumin_max,concentration of,PATO:0000033
+h1_albumin_min,concentration of,PATO:0000033
+h1_bilirubin_max,concentration of,PATO:0000033
+h1_bilirubin_min,concentration of,PATO:0000033
+h1_bun_max,Blood Urea Nitrogen,mesh:D001806
+h1_bun_min,Blood Urea Nitrogen,mesh:D001806
+h1_calcium_max,concentration of,PATO:0000033
+h1_calcium_min,concentration of,PATO:0000033
+h1_creatinine_max,concentration of,PATO:0000033
+h1_creatinine_min,concentration of,PATO:0000033
+h1_glucose_max,concentration of,PATO:0000033
+h1_glucose_min,concentration of,PATO:0000033
+h1_hco3_max,,
+h1_hco3_min,,
+h1_hemaglobin_max,Hemoglobin Concentration,CMO:0000506
+h1_hemaglobin_min,Hemoglobin Concentration,CMO:0000506
+h1_hematocrit_max,Blood Cells,mesh:D001773
+h1_hematocrit_min,Blood Cells,mesh:D001773
+h1_inr_max,International Normalized Ratio,mesh:D019934
+h1_inr_min,International Normalized Ratio,mesh:D019934
+h1_lactate_max,,
+h1_lactate_min,,
+h1_platelets_max,Platelet Count,mesh:D010976
+h1_platelets_min,Platelet Count,mesh:D010976
+h1_potassium_max,potassium concentration,TO:0000513
+h1_potassium_min,potassium concentration,TO:0000513
+h1_sodium_max,sodium concentration,TO:0000526
+h1_sodium_min,sodium concentration,TO:0000526
+h1_wbc_max,Blood Cell Count,mesh:D001772
+h1_wbc_min,Blood Cell Count,mesh:D001772
+d1_arterial_pco2_max,partial pressure,AFO:result#AFR_0002198
+d1_arterial_pco2_min,partial pressure,AFO:result#AFR_0002198
+d1_arterial_ph_max,,
+d1_arterial_ph_min,,
+d1_arterial_po2_max,partial pressure,AFO:result#AFR_0002198
+d1_arterial_po2_min,partial pressure,AFO:result#AFR_0002198
+d1_pao2fio2ratio_max,Fraction of,SNOMED_115468007
+d1_pao2fio2ratio_min,Fraction of,SNOMED_115468007
+h1_arterial_pco2_max,partial pressure,AFO:result#AFR_0002198
+h1_arterial_pco2_min,partial pressure,AFO:result#AFR_0002198
+h1_arterial_ph_max,,
+h1_arterial_ph_min,,
+h1_arterial_po2_max,partial pressure,AFO:result#AFR_0002198
+h1_arterial_po2_min,partial pressure,AFO:result#AFR_0002198
+h1_pao2fio2ratio_max,Fraction of,SNOMED_115468007
+h1_pao2fio2ratio_min,Fraction of,SNOMED_115468007
+aids,HIV positive,GSSO:009851
+cirrhosis,has history,AFO:0000185
+diabetes_mellitus,Diabetes mellitus,HP:0000819
+hepatic_failure,Hepatic failure,HP:0001399
+immunosuppression,Immune System,mesh:D007107
+leukemia,Leukemia,NCIT:C3161
+lymphoma,Lymphoma,NCIT:C3208
+solid_tumor_with_metastasis,has evidence,RO:0002558
+apache_3j_bodysystem,admission diagnosis,OPMI:0000613
+apache_2_bodysystem,admission diagnosis,OPMI:0000613

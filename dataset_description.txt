@@ -1,0 +1,6 @@
+WiDS Datathon 2020. One row is one stay in an intensive care unit.
+The outcome is hospital death: the patient died during this hospital stay.
+The columns are clinical measurements, mostly from the first 24 hours:
+age, heart rate, blood pressure, Glasgow coma scale, oxygen saturation,
+and length of stay before the intensive care unit.
+The task is to explain which of these measurements pushed one patient's risk of death.

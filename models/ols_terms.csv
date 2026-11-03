@@ -1,180 +1,180 @@
-feature,term,code
-age,Age,NCIT:C25150
-bmi,body mass index,CMO:0000105
-elective_surgery,admitted to hospital,GENEPIO:0002020
-ethnicity,ethnicity,MIXS:0000895
-gender,gender,SCHEMAORG_HTTP:gender
-height,height,AFO:result#AFR_0002692
-hospital_admit_source,location of,RO:0001015
-icu_admit_source,location of,RO:0001015
-icu_stay_type,,
-icu_type,capable of,METPO:2000103
-pre_icu_los_days,Length of Stay,mesh:D007902
-readmission_status,,
-weight,weight,EVORAO:weight
-albumin_apache,,
-apache_2_diagnosis,,
-apache_3j_diagnosis,,
-apache_post_operative,,
-arf_apache,Acute Renal Failure,NCIT:C26808
-bilirubin_apache,,
-bun_apache,Blood Urea Nitrogen,mesh:D001806
-creatinine_apache,,
-fio2_apache,Fraction of,SNOMED_115468007
-gcs_eyes_apache,Glasgow coma scale,SNOMED_386554004
-gcs_motor_apache,Glasgow coma scale,SNOMED_386554004
-gcs_unable_apache,Glasgow coma scale,SNOMED_386554004
-gcs_verbal_apache,Glasgow coma scale,SNOMED_386554004
-glucose_apache,,
-heart_rate_apache,Heart Rate,mesh:D006339
-hematocrit_apache,,
-intubated_apache,Arterial Blood,NCIT:C78729
-map_apache,Mean arterial pressure,SNOMED_1285244000
-paco2_apache,partial pressure,AFO:result#AFR_0002198
-paco2_for_ph_apache,partial pressure,AFO:result#AFR_0002198
-pao2_apache,partial pressure,AFO:result#AFR_0002198
-ph_apache,Arterial Blood,NCIT:C78729
-resprate_apache,Respiratory Rate,mesh:D056152
-sodium_apache,sodium concentration,TO:0000526
-temp_apache,,
-urineoutput_apache,urine output,VT:0003620
-ventilated_apache,Arterial Blood,NCIT:C78729
-wbc_apache,Blood Cell Count,mesh:D001772
-d1_diasbp_invasive_max,Diastolic Blood Pressure,NCIT:C25299
-d1_diasbp_invasive_min,Diastolic Blood Pressure,NCIT:C25299
-d1_diasbp_max,Diastolic Blood Pressure,NCIT:C25299
-d1_diasbp_min,Diastolic Blood Pressure,NCIT:C25299
-d1_diasbp_noninvasive_max,Diastolic Blood Pressure,NCIT:C25299
-d1_diasbp_noninvasive_min,Diastolic Blood Pressure,NCIT:C25299
-d1_heartrate_max,Heart Rate,mesh:D006339
-d1_heartrate_min,Heart Rate,mesh:D006339
-d1_mbp_invasive_max,Mean Blood Pressure,NCIT:C217189
-d1_mbp_invasive_min,Mean Blood Pressure,NCIT:C217189
-d1_mbp_max,Mean Blood Pressure,NCIT:C217189
-d1_mbp_min,Mean Blood Pressure,NCIT:C217189
-d1_mbp_noninvasive_max,Mean Blood Pressure,NCIT:C217189
-d1_mbp_noninvasive_min,Mean Blood Pressure,NCIT:C217189
-d1_resprate_max,Respiratory Rate,mesh:D056152
-d1_resprate_min,Respiratory Rate,mesh:D056152
-d1_spo2_max,Peripheral oxygen saturation,SNOMED_431314004
-d1_spo2_min,Peripheral oxygen saturation,SNOMED_431314004
-d1_sysbp_invasive_max,Systolic Blood Pressure,NCIT:C25298
-d1_sysbp_invasive_min,Systolic Blood Pressure,NCIT:C25298
-d1_sysbp_max,Systolic Blood Pressure,NCIT:C25298
-d1_sysbp_min,Systolic Blood Pressure,NCIT:C25298
-d1_sysbp_noninvasive_max,Systolic Blood Pressure,NCIT:C25298
-d1_sysbp_noninvasive_min,Systolic Blood Pressure,NCIT:C25298
-d1_temp_max,core temperature,c_qUHTeqTW
-d1_temp_min,core temperature,c_qUHTeqTW
-h1_diasbp_invasive_max,Diastolic Blood Pressure,NCIT:C25299
-h1_diasbp_invasive_min,Diastolic Blood Pressure,NCIT:C25299
-h1_diasbp_max,Diastolic Blood Pressure,NCIT:C25299
-h1_diasbp_min,Diastolic Blood Pressure,NCIT:C25299
-h1_diasbp_noninvasive_max,Diastolic Blood Pressure,NCIT:C25299
-h1_diasbp_noninvasive_min,Diastolic Blood Pressure,NCIT:C25299
-h1_heartrate_max,Heart Rate,mesh:D006339
-h1_heartrate_min,Heart Rate,mesh:D006339
-h1_mbp_invasive_max,Mean Blood Pressure,NCIT:C217189
-h1_mbp_invasive_min,Mean Blood Pressure,NCIT:C217189
-h1_mbp_max,Mean Blood Pressure,NCIT:C217189
-h1_mbp_min,Mean Blood Pressure,NCIT:C217189
-h1_mbp_noninvasive_max,Mean Blood Pressure,NCIT:C217189
-h1_mbp_noninvasive_min,Mean Blood Pressure,NCIT:C217189
-h1_resprate_max,Respiratory Rate,mesh:D056152
-h1_resprate_min,Respiratory Rate,mesh:D056152
-h1_spo2_max,Peripheral oxygen saturation,SNOMED_431314004
-h1_spo2_min,Peripheral oxygen saturation,SNOMED_431314004
-h1_sysbp_invasive_max,Systolic Blood Pressure,NCIT:C25298
-h1_sysbp_invasive_min,Systolic Blood Pressure,NCIT:C25298
-h1_sysbp_max,Systolic Blood Pressure,NCIT:C25298
-h1_sysbp_min,Systolic Blood Pressure,NCIT:C25298
-h1_sysbp_noninvasive_max,Systolic Blood Pressure,NCIT:C25298
-h1_sysbp_noninvasive_min,Systolic Blood Pressure,NCIT:C25298
-h1_temp_max,core temperature,c_qUHTeqTW
-h1_temp_min,core temperature,c_qUHTeqTW
-d1_albumin_max,concentration of,PATO:0000033
-d1_albumin_min,concentration of,PATO:0000033
-d1_bilirubin_max,concentration of,PATO:0000033
-d1_bilirubin_min,concentration of,PATO:0000033
-d1_bun_max,Blood Urea Nitrogen,mesh:D001806
-d1_bun_min,Blood Urea Nitrogen,mesh:D001806
-d1_calcium_max,concentration of,PATO:0000033
-d1_calcium_min,concentration of,PATO:0000033
-d1_creatinine_max,concentration of,PATO:0000033
-d1_creatinine_min,concentration of,PATO:0000033
-d1_glucose_max,concentration of,PATO:0000033
-d1_glucose_min,concentration of,PATO:0000033
-d1_hco3_max,,
-d1_hco3_min,,
-d1_hemaglobin_max,Hemoglobin Concentration,CMO:0000506
-d1_hemaglobin_min,Hemoglobin Concentration,CMO:0000506
-d1_hematocrit_max,Blood Cells,mesh:D001773
-d1_hematocrit_min,Blood Cells,mesh:D001773
-d1_inr_max,International Normalized Ratio,mesh:D019934
-d1_inr_min,International Normalized Ratio,mesh:D019934
-d1_lactate_max,,
-d1_lactate_min,,
-d1_platelets_max,Platelet Count,mesh:D010976
-d1_platelets_min,Platelet Count,mesh:D010976
-d1_potassium_max,potassium concentration,TO:0000513
-d1_potassium_min,potassium concentration,TO:0000513
-d1_sodium_max,sodium concentration,TO:0000526
-d1_sodium_min,sodium concentration,TO:0000526
-d1_wbc_max,Blood Cell Count,mesh:D001772
-d1_wbc_min,Blood Cell Count,mesh:D001772
-h1_albumin_max,concentration of,PATO:0000033
-h1_albumin_min,concentration of,PATO:0000033
-h1_bilirubin_max,concentration of,PATO:0000033
-h1_bilirubin_min,concentration of,PATO:0000033
-h1_bun_max,Blood Urea Nitrogen,mesh:D001806
-h1_bun_min,Blood Urea Nitrogen,mesh:D001806
-h1_calcium_max,concentration of,PATO:0000033
-h1_calcium_min,concentration of,PATO:0000033
-h1_creatinine_max,concentration of,PATO:0000033
-h1_creatinine_min,concentration of,PATO:0000033
-h1_glucose_max,concentration of,PATO:0000033
-h1_glucose_min,concentration of,PATO:0000033
-h1_hco3_max,,
-h1_hco3_min,,
-h1_hemaglobin_max,Hemoglobin Concentration,CMO:0000506
-h1_hemaglobin_min,Hemoglobin Concentration,CMO:0000506
-h1_hematocrit_max,Blood Cells,mesh:D001773
-h1_hematocrit_min,Blood Cells,mesh:D001773
-h1_inr_max,International Normalized Ratio,mesh:D019934
-h1_inr_min,International Normalized Ratio,mesh:D019934
-h1_lactate_max,,
-h1_lactate_min,,
-h1_platelets_max,Platelet Count,mesh:D010976
-h1_platelets_min,Platelet Count,mesh:D010976
-h1_potassium_max,potassium concentration,TO:0000513
-h1_potassium_min,potassium concentration,TO:0000513
-h1_sodium_max,sodium concentration,TO:0000526
-h1_sodium_min,sodium concentration,TO:0000526
-h1_wbc_max,Blood Cell Count,mesh:D001772
-h1_wbc_min,Blood Cell Count,mesh:D001772
-d1_arterial_pco2_max,partial pressure,AFO:result#AFR_0002198
-d1_arterial_pco2_min,partial pressure,AFO:result#AFR_0002198
-d1_arterial_ph_max,,
-d1_arterial_ph_min,,
-d1_arterial_po2_max,partial pressure,AFO:result#AFR_0002198
-d1_arterial_po2_min,partial pressure,AFO:result#AFR_0002198
-d1_pao2fio2ratio_max,Fraction of,SNOMED_115468007
-d1_pao2fio2ratio_min,Fraction of,SNOMED_115468007
-h1_arterial_pco2_max,partial pressure,AFO:result#AFR_0002198
-h1_arterial_pco2_min,partial pressure,AFO:result#AFR_0002198
-h1_arterial_ph_max,,
-h1_arterial_ph_min,,
-h1_arterial_po2_max,partial pressure,AFO:result#AFR_0002198
-h1_arterial_po2_min,partial pressure,AFO:result#AFR_0002198
-h1_pao2fio2ratio_max,Fraction of,SNOMED_115468007
-h1_pao2fio2ratio_min,Fraction of,SNOMED_115468007
-aids,HIV positive,GSSO:009851
-cirrhosis,has history,AFO:0000185
-diabetes_mellitus,Diabetes mellitus,HP:0000819
-hepatic_failure,Hepatic failure,HP:0001399
-immunosuppression,Immune System,mesh:D007107
-leukemia,Leukemia,NCIT:C3161
-lymphoma,Lymphoma,NCIT:C3208
-solid_tumor_with_metastasis,has evidence,RO:0002558
-apache_3j_bodysystem,admission diagnosis,OPMI:0000613
-apache_2_bodysystem,admission diagnosis,OPMI:0000613
+feature,term,code,shap_both_classes
+age,Age,NCIT:C25150,died 0.522936; survived -0.522936
+bmi,body mass index,CMO:0000105,died 0.050509; survived -0.050509
+elective_surgery,admitted to hospital,GENEPIO:0002020,died 0.003339; survived -0.003339
+ethnicity,ethnicity,MIXS:0000895,died -0.009870; survived 0.009870
+gender,gender,SCHEMAORG_HTTP:gender,died -0.000979; survived 0.000979
+height,height,AFO:result#AFR_0002692,died 0.001848; survived -0.001848
+hospital_admit_source,location of,RO:0001015,died 0.059840; survived -0.059840
+icu_admit_source,location of,RO:0001015,died 0.120320; survived -0.120320
+icu_stay_type,,,died 0.008403; survived -0.008403
+icu_type,capable of,METPO:2000103,died -0.024507; survived 0.024507
+pre_icu_los_days,Length of Stay,mesh:D007902,died 0.134528; survived -0.134528
+readmission_status,,,died 0.000000; survived -0.000000
+weight,weight,EVORAO:weight,died 0.008305; survived -0.008305
+albumin_apache,,,died 0.024906; survived -0.024906
+apache_2_diagnosis,,,died 0.111355; survived -0.111355
+apache_3j_diagnosis,,,died -0.029156; survived 0.029156
+apache_post_operative,,,died 0.000000; survived -0.000000
+arf_apache,Acute Renal Failure,NCIT:C26808,died -0.004779; survived 0.004779
+bilirubin_apache,,,died 0.000599; survived -0.000599
+bun_apache,Blood Urea Nitrogen,mesh:D001806,died -0.007869; survived 0.007869
+creatinine_apache,,,died -0.007174; survived 0.007174
+fio2_apache,Fraction of,SNOMED_115468007,died -0.015874; survived 0.015874
+gcs_eyes_apache,Glasgow coma scale,SNOMED_386554004,died 0.125244; survived -0.125244
+gcs_motor_apache,Glasgow coma scale,SNOMED_386554004,died 0.230188; survived -0.230188
+gcs_unable_apache,Glasgow coma scale,SNOMED_386554004,died -0.001297; survived 0.001297
+gcs_verbal_apache,Glasgow coma scale,SNOMED_386554004,died 0.113646; survived -0.113646
+glucose_apache,,,died -0.010141; survived 0.010141
+heart_rate_apache,Heart Rate,mesh:D006339,died 0.074727; survived -0.074727
+hematocrit_apache,,,died 0.001353; survived -0.001353
+intubated_apache,Arterial Blood,NCIT:C78729,died -0.009896; survived 0.009896
+map_apache,Mean arterial pressure,SNOMED_1285244000,died -0.009896; survived 0.009896
+paco2_apache,partial pressure,AFO:result#AFR_0002198,died 0.005923; survived -0.005923
+paco2_for_ph_apache,partial pressure,AFO:result#AFR_0002198,died 0.005751; survived -0.005751
+pao2_apache,partial pressure,AFO:result#AFR_0002198,died 0.006950; survived -0.006950
+ph_apache,Arterial Blood,NCIT:C78729,died 0.000873; survived -0.000873
+resprate_apache,Respiratory Rate,mesh:D056152,died 0.010956; survived -0.010956
+sodium_apache,sodium concentration,TO:0000526,died 0.040290; survived -0.040290
+temp_apache,,,died -0.018729; survived 0.018729
+urineoutput_apache,urine output,VT:0003620,died 0.030335; survived -0.030335
+ventilated_apache,Arterial Blood,NCIT:C78729,died -0.110374; survived 0.110374
+wbc_apache,Blood Cell Count,mesh:D001772,died 0.009820; survived -0.009820
+d1_diasbp_invasive_max,Diastolic Blood Pressure,NCIT:C25299,died -0.008397; survived 0.008397
+d1_diasbp_invasive_min,Diastolic Blood Pressure,NCIT:C25299,died -0.005786; survived 0.005786
+d1_diasbp_max,Diastolic Blood Pressure,NCIT:C25299,died -0.000264; survived 0.000264
+d1_diasbp_min,Diastolic Blood Pressure,NCIT:C25299,died -0.005032; survived 0.005032
+d1_diasbp_noninvasive_max,Diastolic Blood Pressure,NCIT:C25299,died 0.002769; survived -0.002769
+d1_diasbp_noninvasive_min,Diastolic Blood Pressure,NCIT:C25299,died 0.019384; survived -0.019384
+d1_heartrate_max,Heart Rate,mesh:D006339,died 0.424106; survived -0.424106
+d1_heartrate_min,Heart Rate,mesh:D006339,died -0.051520; survived 0.051520
+d1_mbp_invasive_max,Mean Blood Pressure,NCIT:C217189,died -0.000372; survived 0.000372
+d1_mbp_invasive_min,Mean Blood Pressure,NCIT:C217189,died 0.000536; survived -0.000536
+d1_mbp_max,Mean Blood Pressure,NCIT:C217189,died 0.000034; survived -0.000034
+d1_mbp_min,Mean Blood Pressure,NCIT:C217189,died 0.073813; survived -0.073813
+d1_mbp_noninvasive_max,Mean Blood Pressure,NCIT:C217189,died -0.010934; survived 0.010934
+d1_mbp_noninvasive_min,Mean Blood Pressure,NCIT:C217189,died 0.009446; survived -0.009446
+d1_resprate_max,Respiratory Rate,mesh:D056152,died 0.034126; survived -0.034126
+d1_resprate_min,Respiratory Rate,mesh:D056152,died 0.025241; survived -0.025241
+d1_spo2_max,Peripheral oxygen saturation,SNOMED_431314004,died -0.002438; survived 0.002438
+d1_spo2_min,Peripheral oxygen saturation,SNOMED_431314004,died 0.119688; survived -0.119688
+d1_sysbp_invasive_max,Systolic Blood Pressure,NCIT:C25298,died 0.000830; survived -0.000830
+d1_sysbp_invasive_min,Systolic Blood Pressure,NCIT:C25298,died -0.002959; survived 0.002959
+d1_sysbp_max,Systolic Blood Pressure,NCIT:C25298,died -0.010009; survived 0.010009
+d1_sysbp_min,Systolic Blood Pressure,NCIT:C25298,died 0.239306; survived -0.239306
+d1_sysbp_noninvasive_max,Systolic Blood Pressure,NCIT:C25298,died 0.002720; survived -0.002720
+d1_sysbp_noninvasive_min,Systolic Blood Pressure,NCIT:C25298,died 0.040844; survived -0.040844
+d1_temp_max,core temperature,c_qUHTeqTW,died 0.092690; survived -0.092690
+d1_temp_min,core temperature,c_qUHTeqTW,died -0.039197; survived 0.039197
+h1_diasbp_invasive_max,Diastolic Blood Pressure,NCIT:C25299,died -0.000091; survived 0.000091
+h1_diasbp_invasive_min,Diastolic Blood Pressure,NCIT:C25299,died -0.000778; survived 0.000778
+h1_diasbp_max,Diastolic Blood Pressure,NCIT:C25299,died 0.009182; survived -0.009182
+h1_diasbp_min,Diastolic Blood Pressure,NCIT:C25299,died 0.007452; survived -0.007452
+h1_diasbp_noninvasive_max,Diastolic Blood Pressure,NCIT:C25299,died 0.021213; survived -0.021213
+h1_diasbp_noninvasive_min,Diastolic Blood Pressure,NCIT:C25299,died 0.011671; survived -0.011671
+h1_heartrate_max,Heart Rate,mesh:D006339,died 0.056817; survived -0.056817
+h1_heartrate_min,Heart Rate,mesh:D006339,died 0.004970; survived -0.004970
+h1_mbp_invasive_max,Mean Blood Pressure,NCIT:C217189,died 0.002607; survived -0.002607
+h1_mbp_invasive_min,Mean Blood Pressure,NCIT:C217189,died 0.000000; survived -0.000000
+h1_mbp_max,Mean Blood Pressure,NCIT:C217189,died -0.007628; survived 0.007628
+h1_mbp_min,Mean Blood Pressure,NCIT:C217189,died -0.002672; survived 0.002672
+h1_mbp_noninvasive_max,Mean Blood Pressure,NCIT:C217189,died 0.010077; survived -0.010077
+h1_mbp_noninvasive_min,Mean Blood Pressure,NCIT:C217189,died -0.000263; survived 0.000263
+h1_resprate_max,Respiratory Rate,mesh:D056152,died 0.016356; survived -0.016356
+h1_resprate_min,Respiratory Rate,mesh:D056152,died 0.094252; survived -0.094252
+h1_spo2_max,Peripheral oxygen saturation,SNOMED_431314004,died 0.031079; survived -0.031079
+h1_spo2_min,Peripheral oxygen saturation,SNOMED_431314004,died -0.004678; survived 0.004678
+h1_sysbp_invasive_max,Systolic Blood Pressure,NCIT:C25298,died 0.000615; survived -0.000615
+h1_sysbp_invasive_min,Systolic Blood Pressure,NCIT:C25298,died -0.001079; survived 0.001079
+h1_sysbp_max,Systolic Blood Pressure,NCIT:C25298,died -0.013080; survived 0.013080
+h1_sysbp_min,Systolic Blood Pressure,NCIT:C25298,died 0.004935; survived -0.004935
+h1_sysbp_noninvasive_max,Systolic Blood Pressure,NCIT:C25298,died 0.031926; survived -0.031926
+h1_sysbp_noninvasive_min,Systolic Blood Pressure,NCIT:C25298,died 0.002294; survived -0.002294
+h1_temp_max,core temperature,c_qUHTeqTW,died -0.002950; survived 0.002950
+h1_temp_min,core temperature,c_qUHTeqTW,died 0.016564; survived -0.016564
+d1_albumin_max,concentration of,PATO:0000033,died 0.004509; survived -0.004509
+d1_albumin_min,concentration of,PATO:0000033,died 0.032533; survived -0.032533
+d1_bilirubin_max,concentration of,PATO:0000033,died -0.008611; survived 0.008611
+d1_bilirubin_min,concentration of,PATO:0000033,died -0.015324; survived 0.015324
+d1_bun_max,Blood Urea Nitrogen,mesh:D001806,died 0.021922; survived -0.021922
+d1_bun_min,Blood Urea Nitrogen,mesh:D001806,died -0.004138; survived 0.004138
+d1_calcium_max,concentration of,PATO:0000033,died -0.016952; survived 0.016952
+d1_calcium_min,concentration of,PATO:0000033,died -0.000325; survived 0.000325
+d1_creatinine_max,concentration of,PATO:0000033,died 0.005971; survived -0.005971
+d1_creatinine_min,concentration of,PATO:0000033,died -0.028450; survived 0.028450
+d1_glucose_max,concentration of,PATO:0000033,died 0.008500; survived -0.008500
+d1_glucose_min,concentration of,PATO:0000033,died -0.036980; survived 0.036980
+d1_hco3_max,,,died -0.048876; survived 0.048876
+d1_hco3_min,,,died -0.019681; survived 0.019681
+d1_hemaglobin_max,Hemoglobin Concentration,CMO:0000506,died 0.014107; survived -0.014107
+d1_hemaglobin_min,Hemoglobin Concentration,CMO:0000506,died 0.004842; survived -0.004842
+d1_hematocrit_max,Blood Cells,mesh:D001773,died -0.002502; survived 0.002502
+d1_hematocrit_min,Blood Cells,mesh:D001773,died 0.000716; survived -0.000716
+d1_inr_max,International Normalized Ratio,mesh:D019934,died -0.009381; survived 0.009381
+d1_inr_min,International Normalized Ratio,mesh:D019934,died -0.020919; survived 0.020919
+d1_lactate_max,,,died -0.015732; survived 0.015732
+d1_lactate_min,,,died -0.022947; survived 0.022947
+d1_platelets_max,Platelet Count,mesh:D010976,died -0.017628; survived 0.017628
+d1_platelets_min,Platelet Count,mesh:D010976,died -0.048899; survived 0.048899
+d1_potassium_max,potassium concentration,TO:0000513,died -0.009789; survived 0.009789
+d1_potassium_min,potassium concentration,TO:0000513,died 0.000736; survived -0.000736
+d1_sodium_max,sodium concentration,TO:0000526,died -0.026053; survived 0.026053
+d1_sodium_min,sodium concentration,TO:0000526,died 0.004813; survived -0.004813
+d1_wbc_max,Blood Cell Count,mesh:D001772,died 0.018522; survived -0.018522
+d1_wbc_min,Blood Cell Count,mesh:D001772,died 0.061247; survived -0.061247
+h1_albumin_max,concentration of,PATO:0000033,died 0.001287; survived -0.001287
+h1_albumin_min,concentration of,PATO:0000033,died 0.000000; survived -0.000000
+h1_bilirubin_max,concentration of,PATO:0000033,died 0.000616; survived -0.000616
+h1_bilirubin_min,concentration of,PATO:0000033,died 0.000089; survived -0.000089
+h1_bun_max,Blood Urea Nitrogen,mesh:D001806,died 0.000110; survived -0.000110
+h1_bun_min,Blood Urea Nitrogen,mesh:D001806,died -0.001352; survived 0.001352
+h1_calcium_max,concentration of,PATO:0000033,died 0.000000; survived -0.000000
+h1_calcium_min,concentration of,PATO:0000033,died -0.000205; survived 0.000205
+h1_creatinine_max,concentration of,PATO:0000033,died -0.000318; survived 0.000318
+h1_creatinine_min,concentration of,PATO:0000033,died 0.000091; survived -0.000091
+h1_glucose_max,concentration of,PATO:0000033,died -0.004109; survived 0.004109
+h1_glucose_min,concentration of,PATO:0000033,died -0.000023; survived 0.000023
+h1_hco3_max,,,died -0.021517; survived 0.021517
+h1_hco3_min,,,died -0.007539; survived 0.007539
+h1_hemaglobin_max,Hemoglobin Concentration,CMO:0000506,died -0.008438; survived 0.008438
+h1_hemaglobin_min,Hemoglobin Concentration,CMO:0000506,died 0.000000; survived -0.000000
+h1_hematocrit_max,Blood Cells,mesh:D001773,died -0.005497; survived 0.005497
+h1_hematocrit_min,Blood Cells,mesh:D001773,died 0.000000; survived -0.000000
+h1_inr_max,International Normalized Ratio,mesh:D019934,died -0.001720; survived 0.001720
+h1_inr_min,International Normalized Ratio,mesh:D019934,died -0.014560; survived 0.014560
+h1_lactate_max,,,died 0.001485; survived -0.001485
+h1_lactate_min,,,died 0.001500; survived -0.001500
+h1_platelets_max,Platelet Count,mesh:D010976,died 0.000000; survived -0.000000
+h1_platelets_min,Platelet Count,mesh:D010976,died -0.004122; survived 0.004122
+h1_potassium_max,potassium concentration,TO:0000513,died 0.002211; survived -0.002211
+h1_potassium_min,potassium concentration,TO:0000513,died 0.000000; survived -0.000000
+h1_sodium_max,sodium concentration,TO:0000526,died 0.000000; survived -0.000000
+h1_sodium_min,sodium concentration,TO:0000526,died -0.000155; survived 0.000155
+h1_wbc_max,Blood Cell Count,mesh:D001772,died 0.001270; survived -0.001270
+h1_wbc_min,Blood Cell Count,mesh:D001772,died 0.001277; survived -0.001277
+d1_arterial_pco2_max,partial pressure,AFO:result#AFR_0002198,died 0.051228; survived -0.051228
+d1_arterial_pco2_min,partial pressure,AFO:result#AFR_0002198,died 0.033199; survived -0.033199
+d1_arterial_ph_max,,,died 0.056352; survived -0.056352
+d1_arterial_ph_min,,,died 0.027162; survived -0.027162
+d1_arterial_po2_max,partial pressure,AFO:result#AFR_0002198,died 0.030638; survived -0.030638
+d1_arterial_po2_min,partial pressure,AFO:result#AFR_0002198,died 0.037624; survived -0.037624
+d1_pao2fio2ratio_max,Fraction of,SNOMED_115468007,died 0.007761; survived -0.007761
+d1_pao2fio2ratio_min,Fraction of,SNOMED_115468007,died -0.008324; survived 0.008324
+h1_arterial_pco2_max,partial pressure,AFO:result#AFR_0002198,died -0.013655; survived 0.013655
+h1_arterial_pco2_min,partial pressure,AFO:result#AFR_0002198,died -0.003200; survived 0.003200
+h1_arterial_ph_max,,,died -0.007462; survived 0.007462
+h1_arterial_ph_min,,,died 0.000139; survived -0.000139
+h1_arterial_po2_max,partial pressure,AFO:result#AFR_0002198,died 0.002716; survived -0.002716
+h1_arterial_po2_min,partial pressure,AFO:result#AFR_0002198,died 0.001161; survived -0.001161
+h1_pao2fio2ratio_max,Fraction of,SNOMED_115468007,died 0.000348; survived -0.000348
+h1_pao2fio2ratio_min,Fraction of,SNOMED_115468007,died 0.002493; survived -0.002493
+aids,HIV positive,GSSO:009851,died 0.000658; survived -0.000658
+cirrhosis,has history,AFO:0000185,died -0.001292; survived 0.001292
+diabetes_mellitus,Diabetes mellitus,HP:0000819,died -0.005490; survived 0.005490
+hepatic_failure,Hepatic failure,HP:0001399,died -0.000051; survived 0.000051
+immunosuppression,Immune System,mesh:D007107,died -0.006177; survived 0.006177
+leukemia,Leukemia,NCIT:C3161,died 0.000000; survived -0.000000
+lymphoma,Lymphoma,NCIT:C3208,died 0.000028; survived -0.000028
+solid_tumor_with_metastasis,has evidence,RO:0002558,died -0.012561; survived 0.012561
+apache_3j_bodysystem,admission diagnosis,OPMI:0000613,died 0.057140; survived -0.057140
+apache_2_bodysystem,admission diagnosis,OPMI:0000613,died -0.002115; survived 0.002115

@@ -1,0 +1,1 @@
+({term}[Title]) AND (death[Title] OR mortality[Title]) AND ("intensive care"[Title] OR ICU[Title])
